@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="msg_what_your_name">What\'s your name</string>
+    <string name="title_activity_timeline">My Compose App</string>
+    <string name="photo">Photo</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="Share_your_food_experiences">Share your food experiences</string>
+</resources>
